@@ -1,3 +1,3 @@
-- All the exercises have the delivery and the solution
+- Every exercise has delivery and solution
 - Exercises mostly focus on statistics and data frame handling
 - More exercises will be uploaded
