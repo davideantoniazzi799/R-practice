@@ -3,7 +3,8 @@ Contains four folders:
   -  Mixed: there are mixed exercises;
   -  ggplot: focuses on the ggplot package and visualizations;
   -  tidyverse: focuses on the tidyverse package and data manipulation;
-  -  Statistics: focuses on statistical tests and linear regression
+  -  Statistics: focuses on statistical tests and linear regression;
+  -  Tables: focuses on creating visually appealing tables
 
 Every exercise has delivery and solution.
 
