@@ -1,5 +1,5 @@
 ## Repository Content
-Contains four folders:
+Contains five folders:
   -  Mixed: there are mixed exercises;
   -  ggplot: focuses on the ggplot package and visualizations;
   -  tidyverse: focuses on the tidyverse package and data manipulation;
